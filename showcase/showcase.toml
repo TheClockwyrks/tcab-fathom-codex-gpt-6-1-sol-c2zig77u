@@ -1,0 +1,11 @@
+[[media]]
+file = "dive.json.gz"
+name = "A light pursued through the maze"
+
+[[media]]
+file = "dive.png"
+name = "Sonar through the dark"
+
+[[media]]
+file = "title.png"
+name = "A small light below"
